@@ -1,4 +1,3 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <%@ page import="java.net.InetAddress" %>
 <%@ page import="java.util.Date" %>
